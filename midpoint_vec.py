@@ -1,4 +1,14 @@
 #!/usr/bin/python
+"""
+File: midpoint_vec.py
+
+Copyright (c) 2016 Michael Seaman
+
+License: MIT
+
+Compares the runtimes of python sum, python for loop summation
+and numpy vectorized sum on the midpoint integral formula.
+"""
 
 import numpy as np
 

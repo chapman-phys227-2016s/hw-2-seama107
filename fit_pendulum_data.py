@@ -1,4 +1,14 @@
 #!/usr/bin/python
+"""
+File: fit_pendulum_data
+
+Copyright (c) 2016 Michael Seaman
+
+License: MIT
+
+Gets data about a pendulum and fits it using the numpy
+polynomial approximator
+"""
 import numpy as np
 import matplotlib.pyplot as plt
 

@@ -1,12 +1,13 @@
 # PHYS227 HW 2
 
-**Author:** _\<your name\>_
+**Author:** Michael Seaman
 
-[![Build Status](https://travis-ci.org/chapman-phys227-2016s/hw-2-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys227-2016s/hw-2-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-phys227-2016s/hw-2-seama107.svg?branch=master)](https://travis-ci.org/chapman-phys227-2016s/hw-2-seama107)
 
 **Due date:** 2016/02/16
 
 ## Specification
+
 
 Complete the following exercises from the primary textbook, placing your solutions into separate files. In each file, write the solution as a callable function, so that you can write suitable test functions that demonstrate correct output using the nose framework. GitHub will automatically run your tests on every commit, indicating any failures via the Travis framework with build status above.
 
@@ -20,7 +21,7 @@ Finally, to cleanly present your work, create a Jupyter notebook ```hw2.ipynb```
 
 ## Assessment
 
-_\<Analyze what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.\>_
+I had a really tough time understanding a lot of the concepts that we were implementing this time around - the work with the Lagrange interpolating formula took waaay to much time to just understand.
 
 ## Honor Pledge
 
@@ -31,4 +32,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-_\<your name\>_
+Michael Seaman
